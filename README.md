@@ -1,2 +1,2 @@
 # ProyectoInventario
-Proyecto Inventario
+Proyecto
