@@ -34,9 +34,6 @@
     <p class="mt-5 mb-3 text-muted">&copy; 2017–2022</p>
       <!--Holaaaa xd-->
       <!--Holaaaa soy el tercer pc de diego xddx-->
-      <!--funcionoo-->
-
-<!--funcionoo2-->
   </form>
 </main>
   </body>
